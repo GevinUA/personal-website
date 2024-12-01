@@ -1,0 +1,14 @@
+.introduction-container {
+    border: 8px;
+    margin: 5rem 15rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    /* width: 100%; */
+}
+
+
+#introduction-content{
+    font-size: 1rem;
+}

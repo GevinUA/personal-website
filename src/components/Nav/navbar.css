@@ -1,0 +1,52 @@
+.navbar {
+  height: 35px;
+  background-color: #D086D4;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 10%;
+  width: 80%;
+}
+
+.navbar a {
+  text-decoration: none;
+  padding: 10px 15px;
+  transition: background-color 0.3s; 
+  color: white;
+}
+
+.navbar a:hover {
+  color: #301934;    /* 鼠标悬浮时的背景色 */
+}
+
+
+
+
+/* .navbar {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .navbar h1 {
+    color: white;
+    margin-right: auto;
+  }
+  
+  .navbar button {
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .navbar a:hover {
+    color: #bbdefb;
+  }
+   */
+

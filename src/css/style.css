@@ -1,0 +1,6 @@
+/* src/style.css */
+body {
+    background: url('/public/background-2.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Pixelify Sans', sans-serif; 
+  }

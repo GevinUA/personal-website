@@ -1,0 +1,13 @@
+.experience-container {
+    border: 8px;
+    margin-top: 5rem;
+    margin: 5rem 15rem 5rem 15rem;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: small;
+}
+
+.timeline-element{
+    font-size: 12px;
+}
